@@ -1,1 +1,0 @@
-# unity-example-curved-image-tracking-3d-animation
