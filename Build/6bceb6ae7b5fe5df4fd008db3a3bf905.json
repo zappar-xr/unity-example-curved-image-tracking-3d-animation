@@ -1,0 +1,16 @@
+{
+"companyName": "Zappar",
+"productName": "PUAR JOY",
+"productVersion": "1.0",
+"dataUrl": "4deab253bd60d5c4e192041f53ca04d3.unityweb",
+"wasmCodeUrl": "7d708cd1c55b0df4f0eeb0279e55b11b.unityweb",
+"wasmFrameworkUrl": "9b3f83b1ee9b358a033f2cf501ad5f53.unityweb",
+"graphicsAPI": ["WebGL 2.0","WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20",
+"cacheControl": {"default": "must-revalidate"},
+"developmentBuild": false,
+"multithreading": false,
+"unityVersion": "2019.4.40f1"
+}
